@@ -1,30 +1,37 @@
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=julia" height="60" alt="julia logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vuejs" height="60" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-</div>
+## Main languages:
+
+![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)
+![Static Badge](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![Static Badge](https://img.shields.io/badge/sql%2Fnosql-black?style=for-the-badge&logo=mongodb)
+
+![Static Badge](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)
+![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)
+![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=v)
+![Static Badge](https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook)
+![Static Badge](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=matlab)
+![Static Badge](https://img.shields.io/badge/md-black?style=for-the-badge&logo=markdown)
+
+
+🧩 Data Modelling
+
+🌐 Front-end Development
+
+💡 Innovation, Research and Education
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=git-dark&hide_border=true&border_radius=0&mode=weekly&card_width=700)](https://git.io/streak-stats)
+<img width="100%" src="https://i.pinimg.com/originals/5b/7f/d4/5b7fd4d80e26d97d284867bad3775fc3.gif" alt="GIF from the Cryptography Museum">
 
-###
+
+## Contact:
+
+![Static Badge](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&labelColor=white)
+![Static Badge](https://img.shields.io/badge/in-linkedin-blue?style=flat-square&logo=linkedin)
+
+<img width="142" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
+
+
