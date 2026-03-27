@@ -1,19 +1,32 @@
-## Main languages:
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+</div>
 
-![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![Static Badge](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)
-![Static Badge](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![Static Badge](https://img.shields.io/badge/sql%2Fnosql-black?style=for-the-badge&logo=mongodb)
+###
 
-![Static Badge](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)
-![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)
-![Static Badge](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)
-![Static Badge](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=v)
-![Static Badge](https://img.shields.io/badge/storybook-black?style=for-the-badge&logo=storybook)
-![Static Badge](https://img.shields.io/badge/matlab-black?style=for-the-badge&logo=matlab)
-![Static Badge](https://img.shields.io/badge/md-black?style=for-the-badge&logo=markdown)
+<div align="left">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=black&style=for-the-badge" height="40" alt="storybook logo"  />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
+  <img src="https://img.shields.io/badge/json-gray?logo=json&logoColor=white&style=for-the-badge" height="40" alt="json logo"  />
+  <img src="https://img.shields.io/badge/matlab-white?logo=matlab&logoColor=white&style=for-the-badge" height="40" alt="matlab logo"  />
+</div>
 
+###
+
+###
 
 🧩 Data Modelling
 
@@ -23,14 +36,13 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=git-dark&hide_border=true&border_radius=0&mode=weekly&card_width=700)](https://git.io/streak-stats)
-<img width="100%" src="https://i.pinimg.com/originals/5b/7f/d4/5b7fd4d80e26d97d284867bad3775fc3.gif" alt="GIF from the Cryptography Museum">
+[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_height="200")](https://git.io/streak-stats)
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0Zmx5ZXBudHA5dzA1ZzEwNHN0ZmtseWZhOG82a3IzdnR3c3JwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/waRVKBZWi8Hx2V7lIt/giphy.gif" alt="ascii animation">
 
+---
 
-## Contact:
-
-![Static Badge](https://img.shields.io/badge/gmail-red?style=flat-square&logo=gmail&labelColor=white)
-![Static Badge](https://img.shields.io/badge/in-linkedin-blue?style=flat-square&logo=linkedin)
+[![Static Badge](https://img.shields.io/badge/in-linkedin-blue?style=flat-square)](https://br.linkedin.com/in/beatriz-campanha-silva-580506347)
+[![Static Badge](https://img.shields.io/badge/CNPq-lattes-blue?style=flat-square)](http://lattes.cnpq.br/9354720509375096)
 
 <img width="142" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
 
