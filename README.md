@@ -26,8 +26,6 @@
 
 ###
 
-###
-
 🧩 Data Modelling
 
 🌐 Front-end Development
@@ -36,14 +34,14 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_height="200")](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_height=200)](https://git.io/streak-stats)
 <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0Zmx5ZXBudHA5dzA1ZzEwNHN0ZmtseWZhOG82a3IzdnR3c3JwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/waRVKBZWi8Hx2V7lIt/giphy.gif" alt="ascii animation">
 
----
+##
 
 [![Static Badge](https://img.shields.io/badge/in-linkedin-blue?style=flat-square)](https://br.linkedin.com/in/beatriz-campanha-silva-580506347)
 [![Static Badge](https://img.shields.io/badge/CNPq-lattes-blue?style=flat-square)](http://lattes.cnpq.br/9354720509375096)
 
-<img width="142" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
+<img width="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
 
 
