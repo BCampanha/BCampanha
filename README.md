@@ -20,3 +20,11 @@
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
 </div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
+</div>
+
+###
