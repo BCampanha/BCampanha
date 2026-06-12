@@ -4,8 +4,6 @@
 
 👾 Systems Analysis and Development Student - UniSENAI
 
-<br>
-
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -44,11 +42,12 @@
 
 <div>
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0Zmx5ZXBudHA5dzA1ZzEwNHN0ZmtseWZhOG82a3IzdnR3c3JwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/waRVKBZWi8Hx2V7lIt/giphy.gif" alt="ascii animation">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BCampanha&theme=github-compact"
-    height="200"
-  />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=BCampanha&theme=github-dark&hide_border=true" />
 </div>
+
+<br>
+
+<img src="https://ghchart.rshah.org/BCampanha">
 
 <br>
 
