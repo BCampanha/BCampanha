@@ -1,3 +1,11 @@
+## Beatriz Campanha Silva
+
+🧬 Master's Researcher in Bioinformatics - USP
+
+👾 Systems Analysis and Development Student - UniSENAI
+
+<br>
+
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -34,15 +42,18 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BCampanha&theme=github-dark&hide_border=true&border_radius=0&mode=daily&card_height=200)](https://git.io/streak-stats)
-<img width="30" />
-<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0Zmx5ZXBudHA5dzA1ZzEwNHN0ZmtseWZhOG82a3IzdnR3c3JwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/waRVKBZWi8Hx2V7lIt/giphy.gif" alt="ascii animation">
+<div>
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y0Zmx5ZXBudHA5dzA1ZzEwNHN0ZmtseWZhOG82a3IzdnR3c3JwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/waRVKBZWi8Hx2V7lIt/giphy.gif" alt="ascii animation">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BCampanha&theme=github-compact"
+    height="200"
+  />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BCampanha&bg_color=0d1117&color=b836e7&line=2ed25b&point=90eaa8&area=true&hide_border=true" width="75%">
-
-##
+<br>
 
 [![Static Badge](https://img.shields.io/badge/in-linkedin-blue?style=flat-square)](https://br.linkedin.com/in/beatriz-campanha-silva-580506347)
-[![Static Badge](https://img.shields.io/badge/CNPq-lattes-blue?style=flat-square)](http://lattes.cnpq.br/9354720509375096)
+[![Static Badge](https://img.shields.io/badge/CNPq-Lattes-blue?style=flat-square)](http://lattes.cnpq.br/9354720509375096)
+[![Static Badge](https://img.shields.io/badge/ORCID-green?style=flat-square)](https://orcid.org/0009-0007-7688-7647)
 
 <img width="152" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x1bXpwOXJvdGRwcGRoeXZ3b3h4Z241dm4xdTZvNXp2aHVxbG56bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
